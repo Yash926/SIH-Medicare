@@ -70,10 +70,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Contributors**:
   - [Akriti Sharma](https://github.com/akriti-star)
   - [Onkar Mudegol](https://github.com/OnkarMudegol)
-  - [Priyansh Khare](https://github.com/PriyanshK09) (Admin)
+  - [Priyansh Khare](https://github.com/PriyanshK09)
   - [Uppala Sri Sameer](https://github.com/UppalaSriSameer)
   - [Vivek Shivam Yadav](https://github.com/Vivek-Shivam-Yadav)
-  - [Yash Tripathi](https://github.com/Yash926)
+  - [Yash Tripathi](https://github.com/Yash926) (Admin)
 
 - **Mentorship and Resources**:
   - Special thanks to the **Smart India Hackathon** team for organizing this event and providing valuable support.
