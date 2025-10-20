@@ -68,12 +68,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 - **Contributors**:
+  - [Yash Tripathi](https://github.com/Yash926) (Admin)
   - [Akriti Sharma](https://github.com/akriti-star)
   - [Onkar Mudegol](https://github.com/OnkarMudegol)
   - [Priyansh Khare](https://github.com/PriyanshK09)
   - [Uppala Sri Sameer](https://github.com/UppalaSriSameer)
   - [Vivek Shivam Yadav](https://github.com/Vivek-Shivam-Yadav)
-  - [Yash Tripathi](https://github.com/Yash926) (Admin)
 
 - **Mentorship and Resources**:
   - Special thanks to the **Smart India Hackathon** team for organizing this event and providing valuable support.
@@ -82,6 +82,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For any inquiries, please reach out to:
 
-- **Your Name**: [priyanshkhare4905@gmail.com](mailto:priyanshkhare4905@gmail.com)
-- **GitHub**: [PriyanshK09](https://github.com/PriyanshK09)
+- **Your Name**: [tripathiyash143@gmail.com](mailto:tripathiyash143@gmail.com)
+- **GitHub**: [Yash926](https://github.com/yash926)
 
